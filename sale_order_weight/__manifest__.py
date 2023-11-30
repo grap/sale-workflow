@@ -13,6 +13,7 @@
     'depends': [
         'sale',
         'sale_stock',
+        'product_weighable_default_weight',
     ],
     'data': [
         'views/sale_order_view.xml',
